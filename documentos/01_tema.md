@@ -23,7 +23,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 ### Do tema amplo ao específico
 
 - Tema amplo: `[Impacto social da tecnologia]`
-- Objeto estudado: `[A influência das tecnologias digitais na comunicação e nas relações sociais]`
+- Objeto estudado: `[Relações e comunicações sociais]`
 - Contexto ou aplicação: `[Uso de redes sociais, aplicativos de mensagens e outras plataformas digitais no cotidiano]`
 - Aspecto que será analisado: `[As mudanças na comunicação, na interação social e na forma de estabelecer e manter relações]`
 - O que ficará fora do estudo: `[Aspectos técnicos do desenvolvimento das tecnologias e impactos econômicos ou políticos que não estejam diretamente relacionados à comunicação e às relações sociais]`
@@ -34,7 +34,7 @@ Defina um tema específico, relevante e viável para o artigo de revisão biblio
 
 ### Justificativa
 
-A tecnologia está cada vez mais presente no cotidiano e tem transformado a maneira como as pessoas se comunicam e estabelecem relações sociais. O uso de redes sociais, aplicativos de mensagens e outras ferramentas digitais facilita a comunicação e aproxima pessoas de diferentes lugares. Por outro lado, essas tecnologias também podem modificar a forma como os indivíduos interagem presencialmente. Dessa forma, estudar essa influência é importante para compreender as mudanças provocadas pela tecnologia nas relações sociais.]
+A tecnologia está cada vez mais presente no cotidiano e tem transformado a maneira como as pessoas se comunicam e estabelecem relações sociais. O uso de redes sociais, aplicativos de mensagens e outras ferramentas digitais facilita a comunicação e aproxima pessoas de diferentes lugares. Por outro lado, essas tecnologias também podem modificar a forma como os indivíduos interagem presencialmente. Dessa forma, estudar essa influência é importante para compreender as mudanças provocadas pela tecnologia nas relações sociais.
 
 ### Viabilidade
 
